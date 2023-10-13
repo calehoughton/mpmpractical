@@ -1,0 +1,1 @@
+University practical using matrix modelling to estimate lambda, sensitivity, and elasticity in a house sparrow meta-population dataset. This model is then compared to the actual data.
